@@ -1,0 +1,24 @@
+body {
+    font-family: "helvetica neue";
+    color: #666;
+    padding: 0 20%;
+    
+}
+img {
+  width: 200px;
+}
+.hide {
+  display: none;
+}
+.container{
+    background: rgb(58, 93, 149);
+    max-width: 90%;
+    color: white;
+    text-align: center;
+}
+ul{
+ list-style-type: none;
+ }
+ li a{
+     color: #929799af;
+ }
